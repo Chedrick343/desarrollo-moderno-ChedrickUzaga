@@ -201,6 +201,38 @@ El sistema hace una solicitud para obtener ciertos datos de otro sistema, este l
 el sistema que recibe los datos pueda darle el formato que este quiera.
 Algo así no era posible anteriormente porque los datos estaban muy ligados en un único gran proyecto.
 
+## Pasarelas de pago en aplicaciones web
+Las pasarelas de pago es un servicio mediante el cual se autoriza  a los comercios o tiendas online 
+realizar pagos mediante tarjetas de débito o crédito, esto siendo posible tanto en tiendas físicas 
+como en plataformas digitales, por medio de varios sistemas de autorización, ya que, estas pasarelas 
+son intermediarias entre el comprador y el vendedor, actualmente cumple un rol muy importante pues 
+con la constante digitalización y automatización de procesos, se recurre cada vez más a las pasarelas de pago y sus métodos seguros para realizar transacciones seguras y rápidas.
+## Ventajas y limitaciones
+
+-**Ventajas**: los pagos en línea presentan múltiples beneficios, cómo la facilidad y comodidad de su 
+empleabilidad, ya que, las personas pueden realizar compras o pagos desde cualquier lugar y en 
+cualquier momento que lo requieran, a su vez , ofrece un gran alcance a los usuarios, permitiendo que 
+negocios locales logren vendan a personas en diferentes regiones o países, además, la seguridad es 
+esencial en las pasarelas de pago, pues resulta en una alternativa que muchos utilizan con el fin de 
+resguardar su información bancaria, por lo que dichas pasarelas deben ser muy estrictas y rigurosas 
+en sus cifrados y métodos de seguridad 
+
+-**Limitaciones**: de las principales limitaciones que puede conllevar el uso las pasarelas, son los 
+costos a los que se deben someter los usuarios al momento de la utilización de las mismas, pues estás 
+suele cobrar comisiones o mensualidades por su uso, además otra limitante importante, es la dependencia 
+que se genera a la disponibilidad de la plataforma, pues si está sufre alguna caída de sistema o inconveniente 
+técnico, el usuario se ve directamente afectado.
+
+## Una pequeña comparación...
+
+-La comparación se realizará entre paypal y stripe, ambas son pasarelas de pago sin embargo, están dirigidas 
+a usuarios diferentes, ya que, stripe esta mayormente orientadas a desarrolladores y empresas que requieran 
+una integración técnica más flexible, pues su API es bastante potente, permitiendo adaptar pagos según necesidades 
+específicas, mientras que paypal se reconoce por su facilidad, tanto para empresas como para usuarios finales, 
+volviendo lo atractivo para PIMES, por su sencilla integración.
+
+
+
 ## Automatización y despliegue moderno.
 ### CI/CD
 
@@ -237,4 +269,7 @@ pierdan el tiempo en tareas repetitivas. Esto agiliza entregas y puestas en prod
  - https://hygraph.com/blog/headless-cms-example
  - https://www.siteground.es/kb/sitio-web-estatico-vs-dinamico/
  - https://www.ilimit.com/es/blog/tecnologico-2/automatizacion-despliegue-continuo-30
- 
+ - https://www.incibe.es/empresas/blog/conoces-las-pasarelas-pago-sabes-cual-mas-adecuada-tu-tienda-online
+ - https://imagina.com/en/blog/article/online-payment/
+ - https://bestrongerinsight.com/es/o-que-e-paypal/
+ - https://stripe.com/es/guides/introduction-to-online-payments 
